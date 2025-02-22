@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b8ae12a.css",
-    "main.js": "/static/js/main.ffff1349.js",
-    "static/js/453.9de00f36.chunk.js": "/static/js/453.9de00f36.chunk.js",
-    "index.html": "/index.html",
-    "main.1b8ae12a.css.map": "/static/css/main.1b8ae12a.css.map",
-    "main.ffff1349.js.map": "/static/js/main.ffff1349.js.map",
-    "453.9de00f36.chunk.js.map": "/static/js/453.9de00f36.chunk.js.map"
+    "main.css": "/chennas/learning-tutorial.git/static/css/main.1b8ae12a.css",
+    "main.js": "/chennas/learning-tutorial.git/static/js/main.cca98c54.js",
+    "static/js/453.9de00f36.chunk.js": "/chennas/learning-tutorial.git/static/js/453.9de00f36.chunk.js",
+    "index.html": "/chennas/learning-tutorial.git/index.html",
+    "main.1b8ae12a.css.map": "/chennas/learning-tutorial.git/static/css/main.1b8ae12a.css.map",
+    "main.cca98c54.js.map": "/chennas/learning-tutorial.git/static/js/main.cca98c54.js.map",
+    "453.9de00f36.chunk.js.map": "/chennas/learning-tutorial.git/static/js/453.9de00f36.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b8ae12a.css",
-    "static/js/main.ffff1349.js"
+    "static/js/main.cca98c54.js"
   ]
 }
